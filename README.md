@@ -1,2 +1,5 @@
-# Brest_Cancer
-Predicts about a persons probability to be infected or not to Brest cancer
+# ml-model-deployment
+
+Cancer Prediction Model 
+
+https://cancer-prone-predictor.herokuapp.com/
